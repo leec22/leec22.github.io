@@ -1,10 +1,5 @@
 
 <html>
-<style>
-  .smaller-image {
-    width: 100px;
-  }
-  </style>
 <body>
 
 
