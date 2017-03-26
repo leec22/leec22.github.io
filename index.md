@@ -1,11 +1,13 @@
+
+<html>
 <style>
   .smaller-image {
     width: 100px;
   }
-<html>
+  </style>
 <body>
 
-</style>
+
 <h1 style="color:black">天婦羅介紹by 404262212資工二乙 李京倫</h1>
 <h2 style="color:blue">我最近最想吃的料理</h2>
 <img class="smaller-image" src="http://p03.sfbest.com/2012/07/%E5%A4%A9%E5%A6%87%E7%BD%97%20%E9%85%8D%E5%9B%BE%E4%BA%8C.jpg" alt="Author standing on a beach with two thumbs up. ">
