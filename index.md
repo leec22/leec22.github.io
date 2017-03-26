@@ -1,6 +1,6 @@
 
 <html>
-<body>
+<body BACKGROUND="http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/upN5rJqfxYvTO24o5iakEErUcoZ5X9icNiaonHiaTiccvZTBBHactkMLOl91CuMGbpqZYZr2cvHWrdjp3q6jeQvibk2w/0?wx_fmt=jpeg">
 
 
 <h1 style="color:black">天婦羅介紹by 404262212資工二乙 李京倫</h1>
