@@ -1,10 +1,10 @@
-
-<html>
-<body>
 <style>
   .smaller-image {
     width: 100px;
   }
+<html>
+<body>
+
 </style>
 <h1 style="color:black">天婦羅介紹by 404262212資工二乙 李京倫</h1>
 <h2 style="color:blue">我最近最想吃的料理</h2>
