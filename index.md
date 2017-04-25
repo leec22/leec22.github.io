@@ -3,11 +3,10 @@
 <script>
   $(document).ready(function() {
 
-    $("#target1").parent().css("background-color", "gray");
-    $("#target6").parent().css("background-color", "gray");
+    $("#left-well").css("background-color", "gray");
+    $("#right-well").css("background-color", "gray");
     $("#right-well").children().css("color", "blue");
     $("#left-well").children().css("color", "blue");
-    $(".target:nth-child(2)").addClass("animated bounce");
     $(".target:even").addClass("animated shake");
    $("#target6").addClass("animated fadeOut");
     $("#target5").addClass("animated fadeOut");
