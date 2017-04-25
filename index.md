@@ -1,5 +1,4 @@
 
-<html>
 <script>
   $(document).ready(function() {
 
@@ -53,4 +52,4 @@
   </div>
 </div>
 </body>
-</html>
+
