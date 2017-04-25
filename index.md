@@ -16,20 +16,19 @@
   });  
   </script>
 
-  <div class="container-fluid">
-  
+ <div class="container-fluid">
+  <h3 class="text-primary text-center">jQuery Playground</h3>
   <div class="row">
-    <div class="col-xs-7">
-      <h4>調料</h4>
+    <div class="col-xs-6">
+      <h4>#left-well</h4>
       <div class="well" id="left-well">
-        <button class="btn btn-default target" id="target1">醬油</button>
-        <button class="btn btn-default target" id="target2">芥末</button>
-        <button class="btn btn-default target" id="target3">甜辣醬</button>
+        <button class="btn btn-default target" id="target1">#target1</button>
+        <button class="btn btn-default target" id="target2">#target2</button>
+        <button class="btn btn-default target" id="target3">#target3</button>
       </div>
     </div>
-    <div class="col-xs-7">
-    
-     <h4>#right-well</h4>
+    <div class="col-xs-6">
+      <h4>#right-well</h4>
       <div class="well" id="right-well">
         <button class="btn btn-default target" id="target4">#target4</button>
         <button class="btn btn-default target" id="target5">#target5</button>
@@ -38,7 +37,3 @@
     </div>
   </div>
 </div>
-
-
-
-
