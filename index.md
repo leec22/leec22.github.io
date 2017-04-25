@@ -1,4 +1,4 @@
-</html>
+
 <script>
   $(document).ready(function() {
 
@@ -17,6 +17,7 @@
       $("img").addClass("animated shake");  
   });  
 </script>
+<html>
 <body BACKGROUND="http://kabegami.org/wp-content/uploads/2013/04/YjHrXl.jpg">
 
  
