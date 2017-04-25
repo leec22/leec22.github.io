@@ -1,7 +1,4 @@
 
-<head>
-
-  </head>
   
 <script>
   $(document).ready(function() {
@@ -15,9 +12,7 @@
     $("#target5").addClass("animated fadeOut");
     $("#target4").addClass("animated fadeOut");
     $("#right-well").addClass("animated fadeOut");
-  $("h2").addClass("animated hinge ");
-      $("p").addClass("animated shake");  
-      $("img").addClass("animated shake");  
+
   });  
   </script>
 
